@@ -5,3 +5,4 @@ Two-sum: https://colab.research.google.com/drive/1kVEE7QpZKz1COveTm6HL3k1PLq8YDY
 
 Divisor Game: https://colab.research.google.com/drive/13Ug5Hr8Am5up_r5rZrgoHDJDiXgZLqyB?usp=sharing
 
+Longest Common Prefix: https://colab.research.google.com/drive/1C4DUbCA-30VLuBqhp8rLDIDfbWxT3S61?usp=sharing 
