@@ -8,3 +8,5 @@ Divisor Game: https://colab.research.google.com/drive/13Ug5Hr8Am5up_r5rZrgoHDJDi
 Longest Common Prefix: https://colab.research.google.com/drive/1C4DUbCA-30VLuBqhp8rLDIDfbWxT3S61?usp=sharing 
 
 Move Zeroes: https://colab.research.google.com/drive/1bheIDIgE-tnSVJ0vzLWam18swNXvkKSM?usp=sharing
+
+Add digits: https://colab.research.google.com/drive/1broGHaXByn4cMux0T_BsJKZhbquJsV0f?usp=sharing
